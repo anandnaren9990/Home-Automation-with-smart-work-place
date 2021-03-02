@@ -4,13 +4,13 @@
 #include "Adafruit_MQTT.h"
 #include "Adafruit_MQTT_Client.h"
 
-#define WIFI_SSID "Anand"//Your wifi name
-#define WIFI_PASS "qwertyuiop"//your wifi password
+#define WIFI_SSID "WifiName"//Your wifi name
+#define WIFI_PASS "WifiPassword"//your wifi password
 
 #define MQTT_SERV "io.adafruit.com"
 #define MQTT_PORT 1883
-#define MQTT_NAME "anandnaren9990" //Your adafruit name
-#define MQTT_PASS "aio_qxtW75w0J76r510v0EA7fYwSr4e5" //Your adafruit AIO key
+#define MQTT_NAME " " //Your adafruit name
+#define MQTT_PASS " " //Your adafruit AIO key
 
 int led = D1;
 int led1 = D2;
